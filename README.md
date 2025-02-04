@@ -1,1 +1,1 @@
-# Amazon-sales-Analysis
+Python Project : Analyze Amazon sales data to check the buyers preferred choice in the sales.
